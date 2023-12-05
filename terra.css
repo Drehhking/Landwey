@@ -1,0 +1,311 @@
+.imagei{
+    width: 100%;
+    height: 650px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.your{
+    position: absolute;
+    top: 70px;
+    margin-left: 350px;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    color: white;
+}
+.perfect{
+    position: absolute;
+    top: 350px;
+    margin-left: 350px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nature{
+    position: absolute;
+    top: 400px;
+    margin-left: 500px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lekki{
+    position: absolute;
+    top: 480px;
+    margin-left: 500px;
+    color: white; 
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+.now{
+    position: absolute;
+    top: 550px;
+    margin-left: 600px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #006837;
+    border: 0;
+}
+.response{
+    border-radius: 12px;
+    padding: 10px 25px;
+    font-size: 15px;
+    background-color: orangered;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+    margin-left: 1000px;
+    position: absolute;
+    top: 600px;
+}
+.power{
+    margin-left: 200px;
+}
+.feat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
+.charge{
+    margin-left: 200px;
+}
+.gym{
+    margin-left: 200px;
+}
+.power1{
+    margin-left: 250px;
+    opacity: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    margin-top: -10px;
+}
+.Charging{
+    margin-left: 570px;
+    opacity: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    margin-top: -45px;
+}
+.gyms{
+    margin-left: 1050px;
+    opacity: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    margin-top: -45px; 
+}
+.wifi{
+    margin-left: 970px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
+.camera{
+    margin-left: 600px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
+.exotic{
+    margin-left: 200px;
+    margin-top: 20px;
+    display: flex;
+    position: absolute;
+}
+.icons{
+    margin-top: 190px;
+}
+.exotic1{
+    margin-left: 250px;
+    font-weight: 800;
+    opacity: 0.8;
+}
+.tv{
+    margin-left: 650px;
+    margin-top: -42px;
+    opacity: 0.8;
+    font-weight: 800;
+}
+.High{
+    margin-left: 950px;
+    margin-top: -42px;
+    font-weight: 800;
+    opacity: 0.8;
+}
+.map{
+    width: 100%;
+    height: 800px;
+}
+.car{
+    width: 100%;
+    height: 800px;
+    margin-top: 40px;
+}
+.room5{
+    width: 500px;
+    height: 500px;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+.kitchen{
+    margin-left: 600px;
+    position: absolute;
+    top: 2950px;
+    font-weight: 100;
+}
+.bed{
+    margin-left: 600px;
+    position: absolute;
+    top: 2800px;
+    font-size: 30px;
+    font-weight: 100;
+    background-color: #006837;
+    color: white;
+    padding: 10px;
+}
+.Balconies{
+    margin-left: 600px;
+    position: absolute;
+    top: 3010px;
+    font-weight: 100;
+}
+.Wardrobes{
+    margin-left: 600px;
+    position: absolute;
+    top: 3050px;
+    font-weight: 100;
+}
+.tiled{
+    margin-left: 600px;
+    position: absolute;
+    top: 3090px;
+    font-weight: 100;
+}
+.Fully{
+    margin-left: 600px;
+    position: absolute;
+    top: 3130px;
+    font-weight: 100;
+}
+.shaver{
+    margin-left: 600px;
+    position: absolute;
+    top: 3170px;
+    font-weight: 100;
+}
+.Water{
+    margin-left: 600px;
+    position: absolute;
+    top: 3210px;
+    font-weight: 100;
+}
+.tall{
+    margin-left: 600px;
+    position: absolute;
+    top: 3250px;
+    font-weight: 100;
+}
+.rooms{
+    margin-top: 40px;
+}
+.roomi{
+    width: 32%;
+}
+.room2{
+    width: 32%;
+    margin-left: 10px;
+}
+.room3{
+    width: 32%;
+    margin-left: 10px;
+}
+.room4{
+    width: 32%;
+    margin-left: 10px;
+    height: 350px;
+}
+.roomv{
+    width: 32%;
+    height: 350px;
+}
+.room6{
+    width: 32%;
+    margin-left: 10px;
+    height: 350px;
+}
+.need{
+    margin-top: 100px;
+}
+.full{
+    display: block;
+    margin-left: 40px;
+}
+label{
+    display: block;
+}
+.me{
+    width: 500px;
+    height: 50px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 3px solid rgba(0, 100, 0, 0.948);
+}
+.email{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.phone{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.city{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.hear{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.purchase{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.make{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.site{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.build{
+    display: block;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.sub{
+    background-color: #006837;
+    color: white;
+    padding: 5px 30px;
+    display: block;
+    margin-top: 30px;
+    margin-left: 60px;
+    border: 0;
+}
+a{
+    text-decoration: none;
+}
+.inspect{
+    display: flex;
+    justify-content: right;
+    position: relative;
+    top: -950px;
+}
